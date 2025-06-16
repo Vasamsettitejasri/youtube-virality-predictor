@@ -27,7 +27,7 @@ using a machine learning model trained on synthetic data.
 
 ## 📷 App Screenshot
 
-![App Screenshot](https://raw.githubusercontent.com/Vasamsettitejasri/youtube-virality-predictor/main/App%20screenshot.png)
+![App Screenshot](https://raw.githubusercontent.com/Vasamsettitejasri/youtube-virality-predictor/main/app%20screenshot.png)
 
 ## ⚙️ How to run locally
 
