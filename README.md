@@ -38,7 +38,7 @@ pip install streamlit scikit-learn pandas joblib
 2️⃣ **Run the app**
 ```bash
 streamlit run app.py
-
+```
 
 
 
