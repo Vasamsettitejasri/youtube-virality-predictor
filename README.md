@@ -25,11 +25,16 @@ using a machine learning model trained on synthetic data.
 
 ---
 
+## 📷 App Screenshot
+
+![App Screenshot](https://raw.githubusercontent.com/Vasamsettitejasri/youtube-virality-predictor/main/App%20screenshot.png)
+
+
 ## ⚙️ How to run locally
 
 1️⃣ **Install requirements**
 ```bash
 pip install streamlit scikit-learn pandas joblib
 
-2️⃣ Run the app
+2️⃣ **Run the app**
 streamlit run app.py
