@@ -37,4 +37,5 @@ using a machine learning model trained on synthetic data.
 pip install streamlit scikit-learn pandas joblib
 
 2️⃣ **Run the app**
+```bash
 streamlit run app.py
