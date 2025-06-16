@@ -22,6 +22,7 @@ using a machine learning model trained on synthetic data.
 - **Streamlit**
 
 ✅ Interactive web interface — input video details and get instant prediction.
+✅ Uses machine learning for predicting YouTube Short virality.
 
 ---
 
